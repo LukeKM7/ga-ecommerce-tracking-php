@@ -1,4 +1,6 @@
 # ga-ecommerce-tracking-php
+**Note:** No longer maintained
+
 Use for Google Analytics ecommerce conversion tracking. Create a server side hit using the measurement protocol via PHP.
 
 Designed for but not limited to PayPal conversion tracking in Google Analytics.
